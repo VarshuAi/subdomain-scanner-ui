@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  An interactive, visual layout demonstrating target hostname scan simulations.
+  name: subdomain-scanner-ui version: 1.0 type: Repository author: VarshuAi description: >   An interactive, visual layout demonstrating target hostname scan simulations. primary_tech: CSS
 primary_tech: CSS
 ```
 
